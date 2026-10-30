@@ -3,7 +3,7 @@
 **University of Manchester — Final-Year Computer Science Project (2025–2026)**  
 **Author:** Liam Bavington-Hodge
 
-This repository contains a Python framework for developing and evaluating machine-learning-guided clause selection in [iProver](https://github.com/invokers/iprover), a first-order automated theorem prover.
+This repository contains a Python framework for developing and evaluating machine-learning-guided clause selection in [iProver](https://gitlab.com/korovin/iprover), a first-order automated theorem prover.
 
 The framework uses iProver's interactive external-agent interface to extract clause features, assign scores to candidate clauses and influence proof search. It supports hand-crafted heuristics, supervised machine learning, pairwise ranking and hybrid approaches.
 
